@@ -7,7 +7,7 @@ import StyledThings from './pages/StyledThings/StyledThings'
 import SillyThings from './pages/SillyThings/SIllyThings'
 import Landing from './pages/Landing/Landing'
 import CatThings from './pages/CatThings/CatThings'
-import BaseballThings from './pages/'
+import BaseballThings from './pages/BaseballThings/BaseballThings'
 
 const App = () => {
   const [shahzadsThings, setShazadsThings] = useState([
